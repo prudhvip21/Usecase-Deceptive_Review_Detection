@@ -19,3 +19,7 @@ Accuracy of up to about 0.87 to 0.90 across the models in the saved notebook out
 ## Data
 
 Deceptive Opinion Spam Corpus v1.4 (Ott et al.), included with its original license.
+
+## Earlier versions
+
+The `earlier-version/` folder keeps files from earlier versions of this project (Deception-Detection) that differ from the files above.
